@@ -2,4 +2,4 @@
 
 Some text for testing.
 
-Some more changes.
+A conflicting change.
